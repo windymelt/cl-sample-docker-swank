@@ -6,3 +6,6 @@
 *.x86f
 *~
 .#*
+bundle-libs/
+qlfile.lock
+quicklisp/
